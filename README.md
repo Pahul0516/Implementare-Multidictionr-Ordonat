@@ -1,1 +1,1 @@
-# Implementare-Multidictionr-Ordonat
+Sa se implementeze in C++ un multidictionar ordonat. Memorarea cheilor distincte (fiecare cheie va memora un vector dinamic cu valorile asociater cheii), reprezentare sub forma unei tabele de dispersii cu rezolvarea coliziunilor prin liste intrepatrunse. Pentru implementarea vectorului de valori, se va putea folosi vector din STL.
